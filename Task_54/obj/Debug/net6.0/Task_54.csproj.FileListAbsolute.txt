@@ -1,0 +1,15 @@
+D:\Домашнее задание и просто работа\3 Урок\Homework_8\Task_54\bin\Debug\net6.0\Task_54.exe
+D:\Домашнее задание и просто работа\3 Урок\Homework_8\Task_54\bin\Debug\net6.0\Task_54.deps.json
+D:\Домашнее задание и просто работа\3 Урок\Homework_8\Task_54\bin\Debug\net6.0\Task_54.runtimeconfig.json
+D:\Домашнее задание и просто работа\3 Урок\Homework_8\Task_54\bin\Debug\net6.0\Task_54.dll
+D:\Домашнее задание и просто работа\3 Урок\Homework_8\Task_54\bin\Debug\net6.0\Task_54.pdb
+D:\Домашнее задание и просто работа\3 Урок\Homework_8\Task_54\obj\Debug\net6.0\Task_54.csproj.AssemblyReference.cache
+D:\Домашнее задание и просто работа\3 Урок\Homework_8\Task_54\obj\Debug\net6.0\Task_54.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашнее задание и просто работа\3 Урок\Homework_8\Task_54\obj\Debug\net6.0\Task_54.AssemblyInfoInputs.cache
+D:\Домашнее задание и просто работа\3 Урок\Homework_8\Task_54\obj\Debug\net6.0\Task_54.AssemblyInfo.cs
+D:\Домашнее задание и просто работа\3 Урок\Homework_8\Task_54\obj\Debug\net6.0\Task_54.csproj.CoreCompileInputs.cache
+D:\Домашнее задание и просто работа\3 Урок\Homework_8\Task_54\obj\Debug\net6.0\Task_54.dll
+D:\Домашнее задание и просто работа\3 Урок\Homework_8\Task_54\obj\Debug\net6.0\refint\Task_54.dll
+D:\Домашнее задание и просто работа\3 Урок\Homework_8\Task_54\obj\Debug\net6.0\Task_54.pdb
+D:\Домашнее задание и просто работа\3 Урок\Homework_8\Task_54\obj\Debug\net6.0\Task_54.genruntimeconfig.cache
+D:\Домашнее задание и просто работа\3 Урок\Homework_8\Task_54\obj\Debug\net6.0\ref\Task_54.dll
