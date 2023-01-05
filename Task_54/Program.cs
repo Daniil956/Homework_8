@@ -29,9 +29,9 @@ int[,] OrderingArray(int[,] matrix)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            if (matrix[i,j] < matrix[i+1,j+1])
+            if (matrix[i, j] < matrix[i,j+1])
             {
-                matrix[i,j] = matrix[i+1,j+1];
+                matrix[i,j] = matrix[i,j+1];
                 int tyt = matrix[0,j];
                 matrix[i, 0] = tyt;
             }
